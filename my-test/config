@@ -1,0 +1,3 @@
+include "config.path"
+
+-- preload = "./examples/preload.lua"	-- run preload.lua before every lua service run
